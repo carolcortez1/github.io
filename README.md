@@ -6,7 +6,7 @@
 
 ## Contact Information
 - ✉ carolcortez0@gmail.com
-- ☎ +55 12 99760 7292
+- ☎ +55 12 999760 729
 - [LinkedIn](#)
 - [Google Scholar](#)
 
@@ -14,7 +14,7 @@
 
 ## Professional Summary
 
-I am a dynamic Senior Data Analyst with fourteen years of international experience across Brazil, the USA, UK, and Cyprus. Specializing in data analytics and optimization algorithms, I excel in harnessing the power of data to drive business insights and decisions. My expertise encompasses SQL, Python, ETL processes, statistical analysis, and advanced business intelligence tools. I am proficient in creating visually impactful reports using modern data visualization techniques, ensuring that complex data is accessible and actionable.
+I am a dynamic Senior Data Analyst with fourteen years of international experience across Brazil, the USA, UK, and Cyprus. Specializing in data analytics, optimization algorithms, and AI, I excel in harnessing the power of data to drive business insights and decisions. My expertise encompasses SQL, Python, ETL processes, statistical analysis, advanced business intelligence tools, and AI technologies, including large language models. I am proficient in creating visually impactful reports using modern data visualization techniques, ensuring that complex data is accessible and actionable.
 
 With a robust foundation in Electrical Engineering, I bring a unique perspective to data analysis, combining technical acumen with creative problem-solving. I am dedicated to continuous learning and effective communication, ensuring that my insights lead to strategic, data-driven decisions.
 
@@ -76,8 +76,9 @@ With a robust foundation in Electrical Engineering, I bring a unique perspective
 ## Technical Skills
 
 - **Data Analytics:** SQL, Python, R, ETL processes, data cleaning and preparation, exploratory data analysis (EDA).
-- **Data Visualization:** Power BI, Looker Studio, Tableau, advanced Excel, creating dashboards and interactive reports.
+- **Data Visualization:** Power BI, Looker Studio, advanced Excel, creating dashboards and interactive reports.
 - **Statistics and Machine Learning:** Descriptive statistics, regression analysis, hypothesis testing, time series analysis, clustering, classification, predictive modeling.
+- **AI and Large Language Models:** Experience with natural language processing (NLP), language model fine-tuning, GPT, BERT, and other transformer-based models, applying AI techniques for data-driven insights.
 - **Optimization:** Linear, non-linear, combinatorial, mixed-integer, hierarchical, robust, stochastic, with experience using Gurobi.
 
 ---
@@ -92,5 +93,4 @@ With a robust foundation in Electrical Engineering, I bring a unique perspective
 
 ## About Me
 
-I am an innovative thinker, constantly exploring the latest trends in data analytics to bring fresh, impactful solutions to my projects. My work is characterized by a strong blend of technical expertise and creative problem-solving, making me a valuable asset in any data-driven environment. I am passionate about transforming data into strategic insights and look forward to leveraging my skills to tackle new challenges.
-
+I am an innovative thinker, constantly exploring the latest trends in data analytics and AI to bring fresh, impactful solutions to my projects. My work is characterized by a strong blend of technical expertise and creative problem-solving, making me a valuable asset in any data-driven environment. I am passionate about transforming data into strategic insights and look forward to leveraging my skills to tackle new challenges.
