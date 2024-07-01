@@ -6,7 +6,7 @@
 
 ## Contact Information
 - ✉ carolcortez0@gmail.com
-- ☎ +55 12 999760 729
+- ☎ +55 12 99760 7292
 - [LinkedIn](#)
 - [Google Scholar](#)
 
